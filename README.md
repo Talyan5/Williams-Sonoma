@@ -1,12 +1,17 @@
-#Basic Project
+#Automation Project
 
-*Simple Project
+*Simple Project for creating automation tests using TestNG and Selenium.*
 
 **Java 7**
 
-* Java Application
-* Junit
+*Selenium WebDriver
+*Maven
+*TestNG
+*Log4j
+*JDBC
+*SQL
+*CVS/ Test
 
-Simple Java Application. 
+Automation Project
 
-[Anatoliy Starinskiy](http://ebay.com)
+[Anatoliy Starinskiy](https://github.com/Talyan5/Adactin-Hotel-App)
