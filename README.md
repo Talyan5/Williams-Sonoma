@@ -1,6 +1,6 @@
-#Automation Project
+#Williams Sonoma
 
-*Simple Project for creating automation tests using TestNG and Selenium.*
+*Williams Sonoma Project for creating automation tests using TestNG and Selenium.*
 
 **Java 7**
 
@@ -14,4 +14,4 @@
 
 Automation Project
 
-[Anatoliy Starinskiy](https://github.com/Talyan5/Adactin-Hotel-App)
+[Anatoliy Starinskiy](https://github.com/Talyan5/Williams-Sonoma)
