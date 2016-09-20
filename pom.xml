@@ -4,7 +4,7 @@
 	<groupId>com.sqa.as</groupId>
 	<artifactId>auto-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Automation Project</name>
+	<name>Williams Sonoma Project</name>
 	<description>Project for creating automation tests using TestNG and selenium</description>
 
 	<dependencies>
